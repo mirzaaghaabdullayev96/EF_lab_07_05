@@ -1,22 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\",
+  "WorkspaceRootPath": "C:\\Users\\mirzaaghaaa\\Desktop\\Ef_Baylar\\EF-ConsoleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|c:\\users\\baylar\\source\\repos\\entityframeworkconsoleapp\\entityframeworkconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|solutionrelative:entityframeworkconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|c:\\users\\baylar\\source\\repos\\entityframeworkconsoleapp\\entityframeworkconsoleapp\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|solutionrelative:entityframeworkconsoleapp\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|c:\\users\\baylar\\source\\repos\\entityframeworkconsoleapp\\entityframeworkconsoleapp\\constants\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|c:\\users\\mirzaaghaaa\\desktop\\ef_baylar\\ef-consoleapp\\entityframeworkconsoleapp\\constants\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|solutionrelative:entityframeworkconsoleapp\\constants\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|c:\\users\\baylar\\source\\repos\\entityframeworkconsoleapp\\entityframeworkconsoleapp\\constants\\nationality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|c:\\users\\mirzaaghaaa\\desktop\\ef_baylar\\ef-consoleapp\\entityframeworkconsoleapp\\constants\\nationality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|solutionrelative:entityframeworkconsoleapp\\constants\\nationality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|c:\\users\\mirzaaghaaa\\desktop\\ef_baylar\\ef-consoleapp\\entityframeworkconsoleapp\\models\\authorsofbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|solutionrelative:entityframeworkconsoleapp\\models\\authorsofbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|c:\\users\\mirzaaghaaa\\desktop\\ef_baylar\\ef-consoleapp\\entityframeworkconsoleapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|solutionrelative:entityframeworkconsoleapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|c:\\users\\mirzaaghaaa\\desktop\\ef_baylar\\ef-consoleapp\\entityframeworkconsoleapp\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|solutionrelative:entityframeworkconsoleapp\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|c:\\users\\mirzaaghaaa\\desktop\\ef_baylar\\ef-consoleapp\\entityframeworkconsoleapp\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|solutionrelative:entityframeworkconsoleapp\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|c:\\users\\mirzaaghaaa\\desktop\\ef_baylar\\ef-consoleapp\\entityframeworkconsoleapp\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|solutionrelative:entityframeworkconsoleapp\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|c:\\users\\mirzaaghaaa\\desktop\\ef_baylar\\ef-consoleapp\\entityframeworkconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|solutionrelative:entityframeworkconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|c:\\users\\mirzaaghaaa\\desktop\\ef_baylar\\ef-consoleapp\\entityframeworkconsoleapp\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|solutionrelative:entityframeworkconsoleapp\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +46,121 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Library.cs",
-              "DocumentMoniker": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Models\\Library.cs",
-              "RelativeDocumentMoniker": "EntityFrameworkConsoleApp\\Models\\Library.cs",
-              "ToolTip": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Models\\Library.cs",
-              "RelativeToolTip": "EntityFrameworkConsoleApp\\Models\\Library.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\mirzaaghaaa\\Desktop\\Ef_Baylar\\EF-ConsoleApp\\EntityFrameworkConsoleApp\\Constants\\Genre.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkConsoleApp\\Constants\\Genre.cs",
+              "ToolTip": "C:\\Users\\mirzaaghaaa\\Desktop\\Ef_Baylar\\EF-ConsoleApp\\EntityFrameworkConsoleApp\\Constants\\Genre.cs",
+              "RelativeToolTip": "EntityFrameworkConsoleApp\\Constants\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T07:48:53.863Z",
+              "WhenOpened": "2024-07-05T12:37:13.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Nationality.cs",
-              "DocumentMoniker": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Constants\\Nationality.cs",
+              "DocumentMoniker": "C:\\Users\\mirzaaghaaa\\Desktop\\Ef_Baylar\\EF-ConsoleApp\\EntityFrameworkConsoleApp\\Constants\\Nationality.cs",
               "RelativeDocumentMoniker": "EntityFrameworkConsoleApp\\Constants\\Nationality.cs",
-              "ToolTip": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Constants\\Nationality.cs",
+              "ToolTip": "C:\\Users\\mirzaaghaaa\\Desktop\\Ef_Baylar\\EF-ConsoleApp\\EntityFrameworkConsoleApp\\Constants\\Nationality.cs",
               "RelativeToolTip": "EntityFrameworkConsoleApp\\Constants\\Nationality.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T07:46:56.079Z",
+              "WhenOpened": "2024-07-05T12:34:56.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Genre.cs",
-              "DocumentMoniker": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Constants\\Genre.cs",
-              "RelativeDocumentMoniker": "EntityFrameworkConsoleApp\\Constants\\Genre.cs",
-              "ToolTip": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Constants\\Genre.cs",
-              "RelativeToolTip": "EntityFrameworkConsoleApp\\Constants\\Genre.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Title": "AuthorsOfBooks.cs",
+              "DocumentMoniker": "C:\\Users\\mirzaaghaaa\\Desktop\\Ef_Baylar\\EF-ConsoleApp\\EntityFrameworkConsoleApp\\Models\\AuthorsOfBooks.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkConsoleApp\\Models\\AuthorsOfBooks.cs",
+              "ToolTip": "C:\\Users\\mirzaaghaaa\\Desktop\\Ef_Baylar\\EF-ConsoleApp\\EntityFrameworkConsoleApp\\Models\\AuthorsOfBooks.cs",
+              "RelativeToolTip": "EntityFrameworkConsoleApp\\Models\\AuthorsOfBooks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T07:45:58.433Z",
+              "WhenOpened": "2024-07-05T11:38:27.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\mirzaaghaaa\\Desktop\\Ef_Baylar\\EF-ConsoleApp\\EntityFrameworkConsoleApp\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkConsoleApp\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\mirzaaghaaa\\Desktop\\Ef_Baylar\\EF-ConsoleApp\\EntityFrameworkConsoleApp\\Models\\Book.cs",
+              "RelativeToolTip": "EntityFrameworkConsoleApp\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:38:25.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\mirzaaghaaa\\Desktop\\Ef_Baylar\\EF-ConsoleApp\\EntityFrameworkConsoleApp\\Models\\Library.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkConsoleApp\\Models\\Library.cs",
+              "ToolTip": "C:\\Users\\mirzaaghaaa\\Desktop\\Ef_Baylar\\EF-ConsoleApp\\EntityFrameworkConsoleApp\\Models\\Library.cs",
+              "RelativeToolTip": "EntityFrameworkConsoleApp\\Models\\Library.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:17:13.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\mirzaaghaaa\\Desktop\\Ef_Baylar\\EF-ConsoleApp\\EntityFrameworkConsoleApp\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkConsoleApp\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\mirzaaghaaa\\Desktop\\Ef_Baylar\\EF-ConsoleApp\\EntityFrameworkConsoleApp\\Models\\Author.cs",
+              "RelativeToolTip": "EntityFrameworkConsoleApp\\Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:02:41.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\mirzaaghaaa\\Desktop\\Ef_Baylar\\EF-ConsoleApp\\EntityFrameworkConsoleApp\\Services\\AuthorService.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkConsoleApp\\Services\\AuthorService.cs",
+              "ToolTip": "C:\\Users\\mirzaaghaaa\\Desktop\\Ef_Baylar\\EF-ConsoleApp\\EntityFrameworkConsoleApp\\Services\\AuthorService.cs",
+              "RelativeToolTip": "EntityFrameworkConsoleApp\\Services\\AuthorService.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAUwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:37:33.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\mirzaaghaaa\\Desktop\\Ef_Baylar\\EF-ConsoleApp\\EntityFrameworkConsoleApp\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkConsoleApp\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\mirzaaghaaa\\Desktop\\Ef_Baylar\\EF-ConsoleApp\\EntityFrameworkConsoleApp\\Services\\BookService.cs",
+              "RelativeToolTip": "EntityFrameworkConsoleApp\\Services\\BookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:37:21.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mirzaaghaaa\\Desktop\\Ef_Baylar\\EF-ConsoleApp\\EntityFrameworkConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "EntityFrameworkConsoleApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\mirzaaghaaa\\Desktop\\Ef_Baylar\\EF-ConsoleApp\\EntityFrameworkConsoleApp\\Program.cs",
               "RelativeToolTip": "EntityFrameworkConsoleApp\\Program.cs",
-              "ViewState": "AQIAAAQAAAAAaWZmZmYswCsAAAAdAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwE0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-05T03:00:07.814Z",
               "EditorCaption": ""

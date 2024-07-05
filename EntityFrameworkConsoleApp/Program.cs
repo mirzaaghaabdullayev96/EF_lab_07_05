@@ -1,9 +1,17 @@
-﻿namespace EntityFrameworkConsoleApp
+﻿using EntityFrameworkConsoleApp.Models;
+using EntityFrameworkConsoleApp.Services;
+using System.ComponentModel;
+
+namespace EntityFrameworkConsoleApp
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            AuthorService authorService = new AuthorService();
+            LibraryService libraryService = new LibraryService();
+            BookService bookService = new BookService();
+
             while (true)
             {
                 ShowMenu();
@@ -12,34 +20,49 @@
                 switch (input)
                 {
                     case "1":
+                        libraryService.ShowAll(); //done
                         break;
                     case "2":
+                        bookService.ShowAll(); //done
                         break;
                     case "3":
+                        authorService.ShowAll(); //done
                         break;
                     case "4":
+                        bookService.ShowByLibrary(); //done
                         break;
                     case "5":
+                        bookService.ShowByAuthor(); 
                         break;
                     case "6":
+                        authorService.ShowByBook();
                         break;
                     case "7":
+                        bookService.ShowAllWithAuthors();
                         break;
                     case "8":
+                        libraryService.ShowAllWithBooks();
                         break;
                     case "9":
+                        libraryService.Add(); //done
                         break;
                     case "10":
+                        bookService.Add(); //done
                         break;
                     case "11":
+                        authorService.Add(); //done 
                         break;
                     case "12":
+                        authorService.AssignToBook(); //done
                         break;
                     case "13":
+                        bookService.FindBookByName(); //done
                         break;
                     case "14":
+                        authorService.FindAuthorByName(); //done
                         break;
                     case "15":
+                        bookService.FindBookByGenre(); //done
                         break;
                     case "0":
                         return;
@@ -64,7 +87,7 @@
                               7. Show All Books with Authors
                               8. Show All Libraries with Books
                               9. Add Library
-                              10. Add Book
+                              10. Add Book 
                               11. Add Author
                               12. Assign Author to Book
                               13. Find Book by Title
@@ -75,7 +98,7 @@
             Console.Write("Enter menu number : ");
         }
 
-        private static string GetInput(string inputMessage)
+        public static string GetInput(string inputMessage)
         {
             Console.Write(inputMessage);
             string input = Console.ReadLine();
@@ -89,7 +112,7 @@
             return input;
         }
 
-        private static int GetValidInput(string inputMessage)
+        public static int GetValidInput(string inputMessage)
         {
             Console.Write(inputMessage);
 
