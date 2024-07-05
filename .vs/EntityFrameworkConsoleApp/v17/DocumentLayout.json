@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|c:\\users\\baylar\\source\\repos\\entityframeworkconsoleapp\\entityframeworkconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|solutionrelative:entityframeworkconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|c:\\users\\baylar\\source\\repos\\entityframeworkconsoleapp\\entityframeworkconsoleapp\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|solutionrelative:entityframeworkconsoleapp\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|c:\\users\\baylar\\source\\repos\\entityframeworkconsoleapp\\entityframeworkconsoleapp\\constants\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|solutionrelative:entityframeworkconsoleapp\\constants\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|c:\\users\\baylar\\source\\repos\\entityframeworkconsoleapp\\entityframeworkconsoleapp\\constants\\nationality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|solutionrelative:entityframeworkconsoleapp\\constants\\nationality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Models\\Library.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkConsoleApp\\Models\\Library.cs",
+              "ToolTip": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Models\\Library.cs",
+              "RelativeToolTip": "EntityFrameworkConsoleApp\\Models\\Library.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:48:53.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nationality.cs",
+              "DocumentMoniker": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Constants\\Nationality.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkConsoleApp\\Constants\\Nationality.cs",
+              "ToolTip": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Constants\\Nationality.cs",
+              "RelativeToolTip": "EntityFrameworkConsoleApp\\Constants\\Nationality.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:46:56.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Constants\\Genre.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkConsoleApp\\Constants\\Genre.cs",
+              "ToolTip": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Constants\\Genre.cs",
+              "RelativeToolTip": "EntityFrameworkConsoleApp\\Constants\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:45:58.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Program.cs",
+              "RelativeToolTip": "EntityFrameworkConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAaWZmZmYswCsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T03:00:07.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

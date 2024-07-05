@@ -1,0 +1,14 @@
+C:\Users\Baylar\source\repos\EntityFrameworkConsoleApp\EntityFrameworkConsoleApp\bin\Debug\net8.0\EntityFrameworkConsoleApp.exe
+C:\Users\Baylar\source\repos\EntityFrameworkConsoleApp\EntityFrameworkConsoleApp\bin\Debug\net8.0\EntityFrameworkConsoleApp.deps.json
+C:\Users\Baylar\source\repos\EntityFrameworkConsoleApp\EntityFrameworkConsoleApp\bin\Debug\net8.0\EntityFrameworkConsoleApp.runtimeconfig.json
+C:\Users\Baylar\source\repos\EntityFrameworkConsoleApp\EntityFrameworkConsoleApp\bin\Debug\net8.0\EntityFrameworkConsoleApp.dll
+C:\Users\Baylar\source\repos\EntityFrameworkConsoleApp\EntityFrameworkConsoleApp\bin\Debug\net8.0\EntityFrameworkConsoleApp.pdb
+C:\Users\Baylar\source\repos\EntityFrameworkConsoleApp\EntityFrameworkConsoleApp\obj\Debug\net8.0\EntityFrameworkConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baylar\source\repos\EntityFrameworkConsoleApp\EntityFrameworkConsoleApp\obj\Debug\net8.0\EntityFrameworkConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Baylar\source\repos\EntityFrameworkConsoleApp\EntityFrameworkConsoleApp\obj\Debug\net8.0\EntityFrameworkConsoleApp.AssemblyInfo.cs
+C:\Users\Baylar\source\repos\EntityFrameworkConsoleApp\EntityFrameworkConsoleApp\obj\Debug\net8.0\EntityFrameworkConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Baylar\source\repos\EntityFrameworkConsoleApp\EntityFrameworkConsoleApp\obj\Debug\net8.0\EntityFrameworkConsoleApp.dll
+C:\Users\Baylar\source\repos\EntityFrameworkConsoleApp\EntityFrameworkConsoleApp\obj\Debug\net8.0\refint\EntityFrameworkConsoleApp.dll
+C:\Users\Baylar\source\repos\EntityFrameworkConsoleApp\EntityFrameworkConsoleApp\obj\Debug\net8.0\EntityFrameworkConsoleApp.pdb
+C:\Users\Baylar\source\repos\EntityFrameworkConsoleApp\EntityFrameworkConsoleApp\obj\Debug\net8.0\EntityFrameworkConsoleApp.genruntimeconfig.cache
+C:\Users\Baylar\source\repos\EntityFrameworkConsoleApp\EntityFrameworkConsoleApp\obj\Debug\net8.0\ref\EntityFrameworkConsoleApp.dll
